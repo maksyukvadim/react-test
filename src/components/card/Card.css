@@ -1,0 +1,30 @@
+.priority-1 {
+    background: green;
+}
+
+.priority-2 {
+    background: yellow;
+}
+
+.priority-3 {
+    background: blue;
+}
+
+.card {
+    word-wrap: break-word;
+    width: 100%;
+    min-height: 50px;
+    margin: 5px;
+    padding: 10px;
+    float: left;
+    overflow:hidden;
+    clear: both;
+}
+
+.deleteIco {
+    color: red;
+}
+
+.time {
+    margin: 10%;
+}
